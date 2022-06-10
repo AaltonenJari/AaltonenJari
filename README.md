@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AaltonenJari
 - 👀 I’m interested in Full Stack development
-- 🌱 I’m currently learning to use ROS (Robot Operating System)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on projects concernin Full Stack Development
 - 📫 How to reach me : by email jaritapani.aaltonen@gmail.com
 
 <!---
